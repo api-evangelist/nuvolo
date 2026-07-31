@@ -1,0 +1,14 @@
+{
+  "repo": "nuvolo",
+  "feeds": [
+    {
+      "source": "https://www.nuvolo.com/",
+      "feed_url": "https://www.nuvolo.com/feed/",
+      "title": "",
+      "saved": 2,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-07-25T15:00:33Z"
+}

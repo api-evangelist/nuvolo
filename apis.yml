@@ -1,8 +1,29 @@
 aid: nuvolo
 name: Nuvolo
-description: Nuvolo is a company surfaced as a portfolio company of insight-partners and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Nuvolo is a modern Integrated Workplace Management System (IWMS) and Enterprise
+  Asset Management provider that delivers its Connected Workplace suite natively on
+  the ServiceNow platform. It unifies facilities and space management, real estate
+  and lease administration, capital planning and projects, maintenance and work
+  management, healthcare technology management (HTM), GxP and life-sciences asset
+  management, refrigeration management, sustainability and energy, and OT security
+  into a single cloud platform. Nuvolo serves healthcare, life sciences, public
+  sector, retail, and education organizations, helping them manage the full
+  lifecycle of their assets, spaces, and facilities with mobile access and
+  real-time reporting. Backed by Insight Partners.
 url: https://raw.githubusercontent.com/api-evangelist/nuvolo/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.nuvolo.com/wp-content/uploads/2026/05/nuvolo-logo.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +32,20 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- IWMS
+- Enterprise Asset Management
+- Facilities Management
+- Connected Workplace
+- Healthcare Technology Management
+- Space Management
+- Real Estate
+- Maintenance Management
+- ServiceNow
+- OT Security
+- Sustainability
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +55,24 @@ maintainers:
 common:
 - type: Website
   url: https://www.nuvolo.com/
+- type: Blog
+  url: https://www.nuvolo.com/blog/
+- type: Support
+  url: https://community.nuvolo.com/community
+- type: TermsOfService
+  url: https://www.nuvolo.com/legal-and-compliance/
+- type: PrivacyPolicy
+  url: https://www.nuvolo.com/privacy-policy/
+- type: SignUp
+  url: https://www.nuvolo.com/request-a-demo/
+- type: Compliance
+  url: https://trust.nuvolo.com/
+- type: TrustCenter
+  url: security/nuvolo-trust-center.yml
+- type: DomainSecurity
+  url: security/nuvolo-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
