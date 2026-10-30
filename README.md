@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Nuvolo is a company surfaced as a portfolio company of insight-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Nuvolo is a modern Integrated Workplace Management System (IWMS) and Enterprise Asset Management provider that delivers its Connected Workplace suite natively on the ServiceNow platform. It unifies facilities and space management, real estate and lease administration, capital planning and projects, maintenance and work management, healthcare technology management (HTM), GxP and life-sciences asset management, refrigeration management, sustainability and energy, and OT security into a single cloud platform. Nuvolo serves healthcare, life sciences, public sector, retail, and education organizations, helping them manage the full lifecycle of their assets, spaces, and facilities with mobile access and real-time reporting. Backed by Insight Partners.
 
-Backed by: insight-partners — https://www.nuvolo.com/
+**Areas:** Company · IWMS · Enterprise Asset Management · Facilities Management · Connected Workplace · Healthcare Technology Management · Space Management · Real Estate · Maintenance Management · ServiceNow · OT Security · Sustainability
+
+## Nuvolo on APIs.io
+
+Everything profiled for Nuvolo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nuvolo/](https://apis.io/providers/nuvolo/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nuvolo Domain Security](https://apis.io/security/nuvolo/nuvolo-domain-security/)
+- [Nuvolo Trust Center](https://apis.io/security/nuvolo/nuvolo-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.nuvolo.com/)
+- [Sign up](https://www.nuvolo.com/request-a-demo/)
+- [Support](https://community.nuvolo.com/community)
+- [Blog](https://www.nuvolo.com/blog/)
+- [Compliance](https://trust.nuvolo.com/)
+- [Terms of service](https://www.nuvolo.com/legal-and-compliance/)
+- [Privacy policy](https://www.nuvolo.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 16.6** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 50.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nuvolo/](https://apis.io/providers/nuvolo/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nuvolo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nuvolo/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
